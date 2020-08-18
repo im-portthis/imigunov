@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Migunov</h1>
-<h3 align="center">A passionate developer from russia</h3>
+<h3 align="center">https://career.habr.com/imigunov</h3>
 
-- 🔭 I’m currently working on [python](nda)
+- 🔭 I’m currently working on python
 
 - 🌱 I’m currently learning **goland**
 
